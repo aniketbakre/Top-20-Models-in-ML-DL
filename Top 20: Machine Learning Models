@@ -1,0 +1,59 @@
+1. Linear Regression:
+Used for predicting continuous numerical values based on linear relationships between features.
+
+2. Logistic Regression: 
+Applied for binary classification tasks, where the target variable has two possible outcomes.
+
+3. Decision Trees: 
+A versatile model used for both classification and regression tasks. Decision trees provide interpretable rules for decision-making.
+
+4. Random Forests: 
+An ensemble of decision trees that combines their predictions to improve accuracy and handle complex data.
+
+5. Gradient Boosting Machines (GBMs): 
+Another ensemble method that combines weak learners (usually decision trees) in a sequential manner to improve predictive performance.
+
+6. Support Vector Machines (SVMs): 
+Effective for both classification and regression tasks, SVMs find an optimal hyperplane that maximally separates different classes or predicts numerical values.
+
+7. K-Nearest Neighbors (KNN): 
+A simple yet powerful algorithm that classifies data points based on the majority vote of their k nearest neighbors.
+
+8. Naive Bayes: 
+Based on Bayes' theorem, Naive Bayes is commonly used for text classification, spam filtering, and sentiment analysis.
+
+9. Principal Component Analysis (PCA): 
+A dimensionality reduction technique used to reduce the number of features while retaining most of the important information in the data.
+
+10. K-Means Clustering: 
+A popular unsupervised learning algorithm used to partition data into distinct clusters based on similarity.
+
+11. Hierarchical Clustering: 
+Another clustering algorithm that builds a hierarchy of clusters, enabling the exploration of different granularities.
+
+12. Gaussian Mixture Models (GMMs): 
+A probabilistic model that assumes data points are generated from a mixture of Gaussian distributions. GMMs are used for clustering and density estimation.
+
+13. Hidden Markov Models (HMMs): 
+Particularly useful for modeling sequential data, HMMs are applied in speech recognition, natural language processing, and bioinformatics.
+
+14. Support Vector Regression (SVR): 
+An extension of SVMs for regression tasks, SVR finds a hyperplane that best fits the data while controlling the margin.
+
+15. Neural Networks: 
+Deep learning models composed of multiple layers of interconnected nodes (neurons). Neural networks excel in complex tasks such as image recognition, natural language processing, and time series forecasting.
+
+16. Ensemble Learning: 
+Techniques such as Voting, Bagging, and Stacking that combine multiple models to improve accuracy and robustness.
+
+17. XGBoost: 
+An optimized gradient boosting library that provides efficient implementations of gradient boosting algorithms and is widely used for structured data.
+
+18. LightGBM: 
+Another gradient boosting framework that focuses on efficiency and faster training times, suitable for large-scale datasets.
+
+19. CatBoost: 
+A gradient boosting library that handles categorical features well, making it suitable for datasets with mixed data types.
+
+20. Reinforcement Learning: 
+A type of machine learning where an agent learns to make decisions by interacting with an environment, commonly applied in robotics, game-playing, and control systems.
